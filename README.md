@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Add new YOLOv8 OBB model metrics (#7379)
