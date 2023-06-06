@@ -1,1 +1,1 @@
-ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
