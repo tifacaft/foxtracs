@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Add TFLite Docs Integrations Page (#8522)
