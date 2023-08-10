@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Updated SQL Query Plot Code (#8120)
