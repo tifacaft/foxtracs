@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Update pyproject.toml and Docs (#7274)
