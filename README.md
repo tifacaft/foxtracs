@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Update TFLite Docs images (#8605)
