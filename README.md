@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+Docs partial mdformat improvements (#7378)
