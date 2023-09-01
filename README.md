@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
