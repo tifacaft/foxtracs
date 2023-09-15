@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Compress docs images (#8124)
