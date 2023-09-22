@@ -1,1 +1,1 @@
-Replacing Images for torchscript.md (#8596)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
