@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Python refactorings and simplifications (#7549)
