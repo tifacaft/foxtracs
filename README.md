@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+Add quantization support to TensorFlow.js converter (#7008)
