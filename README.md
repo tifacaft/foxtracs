@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+Add PR Summary step to Ultralytics Actions (#7675)
