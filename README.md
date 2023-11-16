@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+Add estimate_speed(region_color) parameter (#8285)
