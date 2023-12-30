@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Add visuals in guides/distance-calculation.md (#7876)
