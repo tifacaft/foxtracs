@@ -1,1 +1,1 @@
-Add TF SavedModel Docs Integrations Page (#9162)
+Update neural-magic.md (#7347)
