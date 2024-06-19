@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Fix ONNX GPU inference bug (#6840)
