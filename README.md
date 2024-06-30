@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Updating a typo on paddlepaddle.md (#9108)
