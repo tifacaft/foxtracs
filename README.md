@@ -1,1 +1,1 @@
-YOLOv8 INT8 TFLite Inference Example (#7317)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
