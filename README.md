@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Update pyproject.toml and Docs (#7274)
