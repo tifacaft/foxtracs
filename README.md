@@ -1,1 +1,1 @@
-Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
