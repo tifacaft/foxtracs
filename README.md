@@ -1,1 +1,1 @@
-Conda cv2 ImportError libEGL.so.1 fix (#9255)
+FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
