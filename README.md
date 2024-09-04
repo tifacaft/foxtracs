@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
