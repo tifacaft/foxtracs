@@ -1,1 +1,1 @@
-Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
+Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
