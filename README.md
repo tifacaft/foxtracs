@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Update the heatmap module code + docs (#7045)
